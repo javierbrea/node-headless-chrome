@@ -1,8 +1,8 @@
 FROM node:8.9.4
 
-LABEL name="node-headless-chrome" \ 
-LABEL maintainer="Javier Brea" \
-LABEL version="1.0.0" \
+LABEL name="node-headless-chrome"
+LABEL maintainer="Javier Brea"
+LABEL version="1.0.0"
 LABEL description="Headless Chrome installed in a container created from node, for Puppeteer usage"
 
 # See https://crbug.com/795759

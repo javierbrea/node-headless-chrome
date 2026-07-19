@@ -1,3 +1,9 @@
+> [!WARNING]
+> **Project discontinued**
+>
+> This project is no longer maintained and has been archived.
+> It will not receive new features, bug fixes, or security updates.
+
 # Node Headless Chrome
 
 Headless Chrome installed in a container created from node 8.9.4, for Puppeteer usage.
